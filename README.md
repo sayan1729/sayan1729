@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![](https://komarev.com/ghpvc/?username=CarlMariaMikage&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=CarlMariaMikage&color=blueviolet&style=for-the-badge)
 
 <!--
 **CarlMariaMikage/CarlMariaMikage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
