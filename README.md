@@ -3,7 +3,7 @@
 ![](https://komarev.com/ghpvc/?username=CarlMariaMikage&color=blueviolet&style=for-the-badge)
 
 # 💫 About Me:
-Hi, I am a C++ programmer interested in computer graphics, scientific computing and quantitative finance. Currently an undergraduate student majoring in mathematics and minoring in statistics and computer science. Currently exploring opensource and learning about networks, hardware and advanced C++. Would love to collaborate on building something awesome!
+Currently an undergraduate student majoring in mathematics and minoring in statistics and computer science. I am a C++ programmer interested in computer graphics and quantitative finance. Exploring opensource and learning about networks, hardware and advanced C++. Would love to collaborate on building something awesome!
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in) 
