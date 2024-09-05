@@ -7,6 +7,7 @@ I like Haskell and C++.
 
 ## 🌐 Socials:
  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in) 
+ [![Website](https://mistral1729.github.io/pictures/framework/title0.png)](https://mistral1729.github.io)
 
 # 💻 Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
