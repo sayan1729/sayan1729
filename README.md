@@ -13,7 +13,7 @@ I like Haskell and C++.
 ![C](https://img.shields.io/badge/C-gray?style=for-the-badge&logo=C) 
 ![x64 Assembly](https://img.shields.io/badge/x64Assembly-6E4C13?style=for-the-badge) 
 ![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=C%20Sharp) 
-![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust&logoColor=black) 
+<!--![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust&logoColor=black) -->
 ![OCaml](https://img.shields.io/badge/ocaml-orange?style=for-the-badge&logo=ocaml&logoColor=black) 
 ![Haskell](https://img.shields.io/badge/haskell-purple?style=for-the-badge&logo=haskell&logoColor=black) 
 ![Shell](https://img.shields.io/badge/_-SHELL-89E051.svg?style=for-the-badge) 
