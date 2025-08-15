@@ -25,12 +25,12 @@ I like Haskell and C++.
 ![Makefile](https://img.shields.io/badge/_-MAKEFILE-427819.svg?style=for-the-badge) 
 
 # 📊 GitHub Stats:
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Mistral1729&show_icons=true&theme=vision-friendly-dark)<br/>
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Mistral1729&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Mistral1729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Sayan1729&show_icons=true&theme=vision-friendly-dark)<br/>
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Sayan1729&theme=dark&background=000000)](https://git.io/streak-stats)<br/>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sayan1729&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Mistral1729&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Sayan1729&limit=5&theme=vision-friendly-dark&combine_all_yearly_contributions=true)
 
 <!--
 **CarlMariaMikage/CarlMariaMikage** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
